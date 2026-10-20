@@ -1,46 +1,46 @@
 {
-    "version":  "0.55.0",
-    "notes":  "Admin panel improvements, selectable character models, and multiplayer synchronization updates.",
+    "version":  "0.56.0",
+    "notes":  "Session chat now hides after five seconds of inactivity with a translucent panel. Includes launcher chat/performance options and permadeath save protection.",
     "files":  [
                   {
                       "path":  "MyMPLauncher.exe",
-                      "sha256":  "3e7a8121cd441d025cf1ac525db8ab912cf9503a1b8c87311354765bbf74a7ca",
-                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.55.0/MyMPLauncher.exe"
+                      "sha256":  "5fc4bc7c6d5294b7e4f550f37179699ebc33e9e46f7dbb23d510ef7e7e1c2986",
+                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.56.0/MyMPLauncher.exe"
                   },
                   {
                       "path":  "MyMPLauncher.dll",
-                      "sha256":  "7f257f47ddb245ed07cdb160adabec3b860296adab1d49c4f470689bc409213e",
-                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.55.0/MyMPLauncher.dll"
+                      "sha256":  "c637b76a9c03fad7abd76bab1374d62df1cd842dcf1dc932e007702a2cf44d13",
+                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.56.0/MyMPLauncher.dll"
                   },
                   {
                       "path":  "MyMPLauncher.deps.json",
-                      "sha256":  "6f3e2a3cf7b406eed5bbe7b8588dc17869a24139fd4d344447cec96e9eac3bbe",
-                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.55.0/MyMPLauncher.deps.json"
+                      "sha256":  "4275a98042ca34f008102af65aa6b4de81f413c2ecdd4b593ef36bbc961c9aa3",
+                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.56.0/MyMPLauncher.deps.json"
                   },
                   {
                       "path":  "MyMPLauncher.runtimeconfig.json",
                       "sha256":  "019a0076bcf2729f4c42702c7636862e8619d9fad2c2d6472b8dc6974cccdb98",
-                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.55.0/MyMPLauncher.runtimeconfig.json"
+                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.56.0/MyMPLauncher.runtimeconfig.json"
                   },
                   {
                       "path":  "MyMP.MSCLoader.dll",
-                      "sha256":  "d2fe1db143daab37cebbdf7828ebbad8262510a4cc6fd64dec573644ebcd22c1",
-                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.55.0/MyMP.MSCLoader.dll"
+                      "sha256":  "8fb7e4d4819e4e6120421a837d1fe8cec22f0591fdefec3c8f5746932d1f208a",
+                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.56.0/MyMP.MSCLoader.dll"
                   },
                   {
                       "path":  "LiteNetLib.dll",
                       "sha256":  "0c4769ace0212b45fd081451c5409b6bf3e7e77dfa546dfde5ed78246596c144",
-                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.55.0/LiteNetLib.dll"
+                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.56.0/LiteNetLib.dll"
                   },
                   {
                       "path":  "MyMP-Launcher-Hero.png",
                       "sha256":  "2ebebb542ee440325341b0603895945690adfd9b1a394fd52827e18273e72581",
-                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.55.0/MyMP-Launcher-Hero.png"
+                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.56.0/MyMP-Launcher-Hero.png"
                   },
                   {
                       "path":  "MyMP-Logo.png",
                       "sha256":  "5cf1c9315fe31e5255a5dadbc4f90283c582ffea17c0c3fd35a6e5daec09bd25",
-                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.55.0/MyMP-Logo.png"
+                      "url":  "https://github.com/msc-mwc-community/MyMP/releases/download/v0.56.0/MyMP-Logo.png"
                   }
               ]
 }
